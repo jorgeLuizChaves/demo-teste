@@ -1,0 +1,8 @@
+Bundle-SymbolicName: com.sky.admin.login
+Bundle-Version: 1.0.0
+
+Bundle-ClassPath:\
+.,\
+META-INF/libs/botdetect-4.0.beta1.jar
+META-INF/libs/botdetect-jsp20-4.0.beta1.jar 
+META-INF/libs/botdetect-servlet-4.0.beta1.jar 
