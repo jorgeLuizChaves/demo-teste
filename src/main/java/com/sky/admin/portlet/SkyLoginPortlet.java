@@ -35,7 +35,7 @@ import javax.servlet.http.HttpSession;
 
 import org.osgi.service.component.annotations.Component;
 
-@Component(immediate = true, property = { "com.liferay.portlet.display-category=sky",
+@Component(immediate = true, property = { "com.liferay.portlet.display-category=SKY",
 		"com.liferay.portlet.instanceable=true", "com.liferay.portlet.private-session-attributes=false",
 		"com.liferay.portlet.private-request-attributes=false", "javax.portlet.display-name=Sky Portlet Login",
 		"javax.portlet.init-param.template-path=/", "javax.portlet.init-param.view-template=/view.jsp",

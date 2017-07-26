@@ -50,7 +50,7 @@
 								<aui:input data-form="txtLogin-sky" name="Login" required="true" value="liferay@sky.com" type="hidden"></aui:input>
 								<aui:input data-form="txtSenha-sky" name="Senha" required="true" value="liferay@sky" type="hidden"></aui:input>	
 								<aui:input data-form="txtUserType-sky" name="UserType" required="true" value="customer" type="hidden"></aui:input>	
-								<aui:input data-form="txtRedirect-sky" name="Redirect" required="true" value="/home" type="hidden"></aui:input>	
+								<aui:input data-form="txtRedirect-sky" name="Redirect" required="true" value="/" type="hidden"></aui:input>	
 								<aui:button data-form="btnLogin-sky" type="button" value="Entrar" style="display:none" hidden="hidden"></aui:button>
 								<aui:input data-form="SKY_USER_FIRSTNAME" name="SKY_USER_FIRSTNAME" type="hidden" ></aui:input>
 								<aui:input data-form="SKY_USER_LASTNAME" name="SKY_USER_LASTNAME" type="hidden" ></aui:input>
