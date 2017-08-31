@@ -21,4 +21,5 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>com.liferay.ide.core.liferayNature</nature>
 	</natures>
+	
 </projectDescription>
